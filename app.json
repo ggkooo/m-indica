@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "m-indica-pra-mim",
-    "slug": "m-indica-pra-mim",
+    "name": "m-indica",
+    "slug": "m-indica",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mindicapramim",
+    "scheme": "mindica",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
       "icon": "./assets/images/icon.png",
-      "bundleIdentifier": "com.giordanoberwig.m-indica-pra-mim"
+      "bundleIdentifier": "com.giordanoberwig.m-indica"
     },
     "android": {
       "adaptiveIcon": {
