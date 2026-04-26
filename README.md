@@ -1,6 +1,8 @@
-# M Indica Pra Mim
+# Indica
 
 Mobile marketplace app built with Expo, React Native, TypeScript, and Expo Router.
+
+This project was developed for TSW Ijuí 2026.
 
 This project focuses on connecting users with service providers, including:
 - service discovery
